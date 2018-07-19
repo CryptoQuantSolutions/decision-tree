@@ -1,0 +1,6 @@
+MasterComp('1','var(sma2) > var(ema2)', -2, -3, -0.2, 0.3)
+LowComp('var(a) < var(c)', 1, 2, -0.1, 0.1)
+LowComp('var(a) > var(c)', -1, -2, 0.1, -0.1)
+MasterComp('2','var(sma2) < var(ema2)', 2, 3, -0.2, 0.3)
+LowComp('var(a) < var(c)', 1, 2, -0.1, 0.1)
+LowComp('var(a) > var(c)', -1, -2, 0.1, -0.1)

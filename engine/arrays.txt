@@ -1,0 +1,4 @@
+{'1':[{'operation': 'buy', 'price_type': 'LastPrice', 'order_type': 'Limit','start_price_offset':-7, 'price_interval':-12, 'n_orders':7},
+{'operation': 'sell', 'price_type': 'LastPrice', 'order_type': 'Limit', 'start_price_offset':7, 'price_interval':12, 'n_orders':7}],
+'2':[{'operation': 'buy', 'price_type': 'LastPrice', 'order_type': 'StopLimit','start_price_offset':-15, 'price_interval':9, 'n_orders':5, 'trigger_offset':-13, 'trigger_interval':-9},
+{'operation': 'sell', 'price_type': 'LastPrice', 'order_type': 'StopLimit','start_price_offset':15, 'price_interval':-9, 'n_orders':5, 'trigger_offset':13, 'trigger_interval':9}]}
